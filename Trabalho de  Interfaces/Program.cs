@@ -19,7 +19,7 @@ namespace Trabalho_de_Interfaces
             Console.WriteLine(resultAdicao);
             Console.WriteLine(resultSubtracao);
             Console.WriteLine(resultMultiplicacao);
-            Console.WriteLine(resultAdicao);
+            Console.WriteLine(resultadDivisao);
         }
     }
 }        
